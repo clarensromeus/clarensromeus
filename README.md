@@ -1,4 +1,4 @@
-![githubbanner](https://github.com/shavinski/react-jobly/assets/108362048/39ad96c9-852a-47e4-8807-6094b2c3fd09)
+![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/shavinski/react-jobly/assets/108362048/7b92b044-980a-4710-b4e6-a4075c2ffd98)
 
 <h1 align="center">Hi 👋, I'm clarens romeus</h1>
 <h3 align="center">A passionate full stack web and cross-platform mobile developer from Haiti</h3>
