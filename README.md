@@ -1,4 +1,4 @@
-![logo](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg)
+![githubbanner](https://github.com/shavinski/react-jobly/assets/108362048/39ad96c9-852a-47e4-8807-6094b2c3fd09)
 
 <h1 align="center">Hi 👋, I'm clarens romeus</h1>
 <h3 align="center">A passionate full stack web and cross-platform mobile developer from Haiti</h3>
