@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a mobile application**
 
-- 💬 Ask me about **React, Node, Typescript, Django, Flask, FastApi, React Native**
+- 💬 Ask me about **React, Node, Next 14, Typescript, Django, Flask, FastApi, React Native**
 
 - 📫 How to reach me **romeusclarens10@gmail.com**
 
