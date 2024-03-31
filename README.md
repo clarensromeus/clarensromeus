@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clarensromeus&label=Profile%20views&color=0e75b6&style=flat" alt="clarensromeus" /> </p>
 
-- 🔭 I’m currently working on **a mobile application**
+- 🔭 I’m currently working on a **cross-platform mobile application**
 
 - 💬 Ask me about **React, Node, Next 14, Typescript, Django, Flask, FastApi, React Native**
 
