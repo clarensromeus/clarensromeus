@@ -1,7 +1,7 @@
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/shavinski/react-jobly/assets/108362048/7b92b044-980a-4710-b4e6-a4075c2ffd98)
 
 <h1 align="center">Hi 👋, I'm clarens romeus</h1>
-<h5 align="left">i'm a passionate and dedicated full stack Engineer with the purpose to make a meaningful impact in the digital world </h5>
+<h4 align="left">i'm a passionate and dedicated full stack Engineer with the purpose to make a meaningful impact in the digital world </h4>
 
 <img align="right" width="400" alt="coding-gif" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
