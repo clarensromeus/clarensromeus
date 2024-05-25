@@ -5,8 +5,6 @@
 
 <img align="right" width="400" alt="coding-gif" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clarensromeus&label=Profile%20views&color=0e75b6&style=flat" alt="clarensromeus" /> </p>
-
 - 🔭 I’m currently working on a **cross-platform mobile application** with React native
 
 - 💬 Ask me about **React, Node, Next 14, Typescript, Django, Flask, FastApi, React Native**
