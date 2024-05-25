@@ -1,7 +1,8 @@
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/shavinski/react-jobly/assets/108362048/7b92b044-980a-4710-b4e6-a4075c2ffd98)
 
 <h1 align="center">Hi 👋, I'm clarens romeus</h1>
-<h4 align="left">i'm a passionate and dedicated full stack Engineer with the purpose to make a meaningful impact in the digital world </h4>
+<h4 align="left">i'm a passionate and dedicated full stack Engineer with the purpose to make a meaningful impact in the digital world, </h4>
+<h4 aligh="left">as with great power comes great reponsibility, i widely prime my goals over everything and work hard to come to the end result</h4>
 
 <img align="right" width="400" alt="coding-gif" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -9,7 +10,7 @@
 
 - 💬 Ask me about **React, Node, Next 14, Typescript, Django, Flask, FastApi, React Native**
 
-- 📫 reac me directly via email **romeusclarens10@gmail.com**
+- 📫 reach me directly via email **romeusclarens10@gmail.com**
 - 📞 contack me on phone *+509 385 055 80*
 - 🗒️ know in-depth about my experience **https://clarens-com.onrender.com**
 
