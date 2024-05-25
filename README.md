@@ -14,7 +14,7 @@
 - 💬 Ask me about **React, Node, Next 14, Typescript, Django, Flask, FastApi, React Native**
 
 - 📫 reach me directly via email **romeusclarens10@gmail.com**
-- 📞 contack me on phone *+509 385 055 80*
+- 📞 contact me on phone *+509 385 055 80*
 - 🗒️ know in-depth about my experience **https://clarens-com.onrender.com**
 
 <h3 align="left">Connect on social network:</h3>
