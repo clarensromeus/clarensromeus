@@ -4,7 +4,7 @@
 <h4 align="left">
   i'm a passionate & dedicated full stack Engineer with the purpose to make a meaningful impact in the digital world, 
   as with great power comes great reponsibility, i widely prime my goals over everything and work hard to come to the end result,
-  i'm mission-driven, results-driven & growth-oriented, Looking for someone to get your tasks done whenseover, get in touch with me.
+  i'm mission-driven, results-driven & growth-oriented, Looking for someone to get your tasks done whensoever, get in touch with me.
 </h4>
 
 <img align="right" width="400" alt="coding-gif" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
